@@ -3,5 +3,5 @@
     server.port = 8081.
 ######  Then to see the list of endpoints created, after running the project go to:
    http://localhost:8081/swagger-ui.html
-> ***To make this more fun, create a git Repo and push all you've learnt in this post, teach someone else*** 
+> ***To make this more fun, use your git Repo and push all you've learnt, teach someone else*** 
 :sunglasses:
